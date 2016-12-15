@@ -1,0 +1,11 @@
+che__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+project.e4p
+.gitigonre.swo
+.gitignore.swp
+__init__.py
+.eric6project
+
